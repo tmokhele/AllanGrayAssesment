@@ -1,0 +1,8 @@
+# AllanGrayAssesment
+
+Please note that the repo contains both code for evaluation and a jar file execution.
+
+1. The file is contained in the following folder (/out/artifacts/AllanGray_jar)
+2. The file name is called AllanGray.jar
+3. Execution of this jar assumes that you have java run time environment
+4. You could either copy it to any location of your choice your or navigate to the folder as specified above and execute the folowing command (java -jar AllanGray.jar)
